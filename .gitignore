@@ -1,0 +1,8 @@
+#ignore archive file
+/archive
+
+#ignore JSON files
+*.json
+
+#ignore emacs drafts
+*~
